@@ -1,0 +1,8 @@
+{
+  "wf.tumor_cram": "/storage1/fs1/timley/Active/aml_ppg/analysis/ppg/saimukund/MGI/WDL/Inputs/Tmp/tumor.cram",
+  "wf.tumor_cram_index": "/storage1/fs1/timley/Active/aml_ppg/analysis/ppg/saimukund/MGI/WDL/Inputs/Tmp/tumor.cram.crai",
+  "wf.fusion_sites": "/storage1/fs1/timley/Active/aml_ppg/analysis/ppg/saimukund/MGI/WDL/Inputs/Tmp/sites_chr1.bed",
+  "wf.reference": "/storage1/fs1/bga/Active/gmsroot/gc2560/core/model_data/2887491634/build21f22873ebe0486c8e6f69c15435aa96/all_sequences.fa",
+  "wf.reference_fai": "/storage1/fs1/bga/Active/gmsroot/gc2560/core/model_data/2887491634/build21f22873ebe0486c8e6f69c15435aa96/all_sequences.fa.fai",
+  "wf.reference_dict": "/storage1/fs1/bga/Active/gmsroot/gc2560/core/model_data/2887491634/build21f22873ebe0486c8e6f69c15435aa96/all_sequences.dict"
+}
